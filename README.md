@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<p style="text-align: center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahameth&layout=compact&hide=html" alt="abuanwar072" /></p>
-<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahameth&layout=compact&hide=html" alt="abuanwar072" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahameth&show_icons=true" alt="abuanwar072" /></p>
 
