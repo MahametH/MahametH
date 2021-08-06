@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MahametH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&labelColor=2f2625)
